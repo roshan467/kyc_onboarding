@@ -1,0 +1,201 @@
+client_id,issues,risk_rating,recommended_action
+KYC0001,Corporate: UBO not declared,Medium,Return to client for documents
+KYC0002,,Low,Approve for onboarding
+KYC0003,,Low,Approve for onboarding
+KYC0004,,Low,Approve for onboarding
+KYC0005,,Medium,Approve for onboarding
+KYC0006,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0007,,Medium,Approve for onboarding
+KYC0008,Corporate: UBO not declared,Low,Return to client for documents
+KYC0009,Corporate: UBO not declared,Low,Return to client for documents
+KYC0010,Corporate: UBO not declared,Low,Return to client for documents
+KYC0011,,Low,Approve for onboarding
+KYC0012,Corporate: UBO not declared,Low,Return to client for documents
+KYC0013,,Medium,Approve for onboarding
+KYC0014,Corporate: UBO not declared,Low,Return to client for documents
+KYC0015,,Medium,Approve for onboarding
+KYC0016,ID document expired,Low,Return to client for documents
+KYC0017,ID document expired,Low,Return to client for documents
+KYC0018,,Low,Approve for onboarding
+KYC0019,Corporate: UBO not declared,Medium,Return to client for documents
+KYC0020,,Medium,Approve for onboarding
+KYC0021,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0022,Source of funds missing,Low,Return to client for documents
+KYC0023,,Medium,Approve for onboarding
+KYC0024,ID document expired,Low,Return to client for documents
+KYC0025,Corporate: UBO not declared,Low,Return to client for documents
+KYC0026,,Low,Approve for onboarding
+KYC0027,,Low,Approve for onboarding
+KYC0028,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0029,,Low,Approve for onboarding
+KYC0030,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0031,,Medium,Approve for onboarding
+KYC0032,Source of funds missing,Medium,Return to client for documents
+KYC0033,,Low,Approve for onboarding
+KYC0034,,Medium,Approve for onboarding
+KYC0035,,Medium,Approve for onboarding
+KYC0036,Address proof older than 90 days,Low,Return to client for documents
+KYC0037,Address proof older than 90 days,Low,Return to client for documents
+KYC0038,,Medium,Approve for onboarding
+KYC0039,Source of funds missing,Medium,Return to client for documents
+KYC0040,,Low,Approve for onboarding
+KYC0041,,Medium,Approve for onboarding
+KYC0042,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0043,Address proof older than 90 days,Low,Return to client for documents
+KYC0044,,High,Enhanced due diligence (high-risk profile)
+KYC0045,,Low,Approve for onboarding
+KYC0046,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0047,,Medium,Approve for onboarding
+KYC0048,,Low,Approve for onboarding
+KYC0049,ID document expired,Low,Return to client for documents
+KYC0050,,Low,Approve for onboarding
+KYC0051,,Low,Approve for onboarding
+KYC0052,,Medium,Approve for onboarding
+KYC0053,,Low,Approve for onboarding
+KYC0054,Source of funds missing,Medium,Return to client for documents
+KYC0055,,Medium,Approve for onboarding
+KYC0056,,Medium,Approve for onboarding
+KYC0057,,Medium,Approve for onboarding
+KYC0058,,Low,Approve for onboarding
+KYC0059,,Low,Approve for onboarding
+KYC0060,,Low,Approve for onboarding
+KYC0061,,Low,Approve for onboarding
+KYC0062,,Medium,Approve for onboarding
+KYC0063,ID document expired,Low,Return to client for documents
+KYC0064,,Low,Approve for onboarding
+KYC0065,,Low,Approve for onboarding
+KYC0066,Address proof older than 90 days,Low,Return to client for documents
+KYC0067,,Medium,Approve for onboarding
+KYC0068,,Medium,Approve for onboarding
+KYC0069,,Low,Approve for onboarding
+KYC0070,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0071,,Medium,Approve for onboarding
+KYC0072,,Low,Approve for onboarding
+KYC0073,,Medium,Approve for onboarding
+KYC0074,,Low,Approve for onboarding
+KYC0075,,Low,Approve for onboarding
+KYC0076,,Low,Approve for onboarding
+KYC0077,,Low,Approve for onboarding
+KYC0078,,Medium,Approve for onboarding
+KYC0079,,Low,Approve for onboarding
+KYC0080,,Low,Approve for onboarding
+KYC0081,Address proof older than 90 days,Low,Return to client for documents
+KYC0082,,Low,Approve for onboarding
+KYC0083,ID document expired,Medium,Return to client for documents
+KYC0084,,Low,Approve for onboarding
+KYC0085,ID document expired,Low,Return to client for documents
+KYC0086,,Medium,Approve for onboarding
+KYC0087,,Low,Approve for onboarding
+KYC0088,,Medium,Approve for onboarding
+KYC0089,,Low,Approve for onboarding
+KYC0090,Address proof older than 90 days,Low,Return to client for documents
+KYC0091,,Medium,Approve for onboarding
+KYC0092,Address proof older than 90 days,Medium,Return to client for documents
+KYC0093,Address proof older than 90 days,Medium,Return to client for documents
+KYC0094,,Low,Approve for onboarding
+KYC0095,,Low,Approve for onboarding
+KYC0096,,Medium,Approve for onboarding
+KYC0097,,Low,Approve for onboarding
+KYC0098,,Low,Approve for onboarding
+KYC0099,,Low,Approve for onboarding
+KYC0100,,Low,Approve for onboarding
+KYC0101,,Low,Approve for onboarding
+KYC0102,,Low,Approve for onboarding
+KYC0103,,Low,Approve for onboarding
+KYC0104,,Low,Approve for onboarding
+KYC0105,,Low,Approve for onboarding
+KYC0106,,Medium,Approve for onboarding
+KYC0107,,Low,Approve for onboarding
+KYC0108,,Low,Approve for onboarding
+KYC0109,,Medium,Approve for onboarding
+KYC0110,Address proof older than 90 days,Medium,Return to client for documents
+KYC0111,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0112,,Low,Approve for onboarding
+KYC0113,,Low,Approve for onboarding
+KYC0114,,Low,Approve for onboarding
+KYC0115,,Low,Approve for onboarding
+KYC0116,,Low,Approve for onboarding
+KYC0117,,Low,Approve for onboarding
+KYC0118,,Low,Approve for onboarding
+KYC0119,,Medium,Approve for onboarding
+KYC0120,,Medium,Approve for onboarding
+KYC0121,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0122,,Low,Approve for onboarding
+KYC0123,,Low,Approve for onboarding
+KYC0124,,Low,Approve for onboarding
+KYC0125,,Low,Approve for onboarding
+KYC0126,,Low,Approve for onboarding
+KYC0127,,Low,Approve for onboarding
+KYC0128,,Low,Approve for onboarding
+KYC0129,,Medium,Approve for onboarding
+KYC0130,,Low,Approve for onboarding
+KYC0131,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0132,,Low,Approve for onboarding
+KYC0133,Source of funds missing,High,Return to client for documents
+KYC0134,,Low,Approve for onboarding
+KYC0135,,Low,Approve for onboarding
+KYC0136,,Medium,Approve for onboarding
+KYC0137,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0138,,Low,Approve for onboarding
+KYC0139,,Low,Approve for onboarding
+KYC0140,,Low,Approve for onboarding
+KYC0141,,Low,Approve for onboarding
+KYC0142,,Low,Approve for onboarding
+KYC0143,,Medium,Approve for onboarding
+KYC0144,,Low,Approve for onboarding
+KYC0145,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0146,ID document expired,Low,Return to client for documents
+KYC0147,,Medium,Approve for onboarding
+KYC0148,,Low,Approve for onboarding
+KYC0149,,Medium,Approve for onboarding
+KYC0150,,Low,Approve for onboarding
+KYC0151,,Low,Approve for onboarding
+KYC0152,,Low,Approve for onboarding
+KYC0153,,Low,Approve for onboarding
+KYC0154,Address proof older than 90 days,Low,Return to client for documents
+KYC0155,,Low,Approve for onboarding
+KYC0156,,Low,Approve for onboarding
+KYC0157,,Low,Approve for onboarding
+KYC0158,,Low,Approve for onboarding
+KYC0159,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0160,,Low,Approve for onboarding
+KYC0161,,Low,Approve for onboarding
+KYC0162,,Low,Approve for onboarding
+KYC0163,,Medium,Approve for onboarding
+KYC0164,,Medium,Approve for onboarding
+KYC0165,,Low,Approve for onboarding
+KYC0166,Source of funds missing,Low,Return to client for documents
+KYC0167,,Medium,Approve for onboarding
+KYC0168,,Low,Approve for onboarding
+KYC0169,,Low,Approve for onboarding
+KYC0170,,Low,Approve for onboarding
+KYC0171,,Medium,Approve for onboarding
+KYC0172,,Medium,Approve for onboarding
+KYC0173,,Low,Approve for onboarding
+KYC0174,,Medium,Approve for onboarding
+KYC0175,,Medium,Approve for onboarding
+KYC0176,,Low,Approve for onboarding
+KYC0177,,Low,Approve for onboarding
+KYC0178,,Low,Approve for onboarding
+KYC0179,ID document expired,Low,Return to client for documents
+KYC0180,,Low,Approve for onboarding
+KYC0181,,Medium,Approve for onboarding
+KYC0182,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0183,,Low,Approve for onboarding
+KYC0184,,Low,Approve for onboarding
+KYC0185,ID document expired,Low,Return to client for documents
+KYC0186,,Low,Approve for onboarding
+KYC0187,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0188,,Medium,Approve for onboarding
+KYC0189,,Low,Approve for onboarding
+KYC0190,,Low,Approve for onboarding
+KYC0191,,Medium,Approve for onboarding
+KYC0192,,Low,Approve for onboarding
+KYC0193,Source of funds missing,Medium,Return to client for documents
+KYC0194,,Low,Approve for onboarding
+KYC0195,,Low,Approve for onboarding
+KYC0196,,Medium,Approve for onboarding
+KYC0197,,Low,Approve for onboarding
+KYC0198,Watchlist potential match,High,Escalate to Compliance (potential watchlist match)
+KYC0199,Source of funds missing,Low,Return to client for documents
+KYC0200,,Low,Approve for onboarding

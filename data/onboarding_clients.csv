@@ -1,0 +1,201 @@
+client_id,client_name,client_type,country,id_doc_expiry,address_proof_date,ubo_declared,source_of_funds,pep_declared
+KYC0001,Lunara Fenwick Industries Ltd,Corporate,XB,2027-03-29,2026-07-29,No,Provided,No
+KYC0002,Kestrel Ashdown,Individual,DE,2027-09-17,2026-08-10,N/A,Provided,No
+KYC0003,Galen Ingram,Individual,GB,2030-04-18,2026-08-26,N/A,Provided,No
+KYC0004,Galen Eastgate,Individual,DE,2029-04-05,2026-09-06,N/A,Provided,No
+KYC0005,Cavil Jessop,Individual,XA,2027-10-15,2026-09-10,N/A,Provided,No
+KYC0006,"Halvorsen, Yarrowe",Individual,DE,2028-01-04,2026-08-20,N/A,Provided,No
+KYC0007,Ilan Kingsley,Individual,FR,2028-02-05,2026-09-01,N/A,Provided,Yes
+KYC0008,Elka Ashdown Capital Ltd,Corporate,SG,2028-01-03,2026-09-08,No,Provided,No
+KYC0009,Elka Jessop Enterprises Ltd,Corporate,IN,2030-06-02,2026-08-14,No,Provided,No
+KYC0010,Nolan Eastgate Holdings Ltd,Corporate,IE,2028-02-11,2026-07-27,No,Provided,No
+KYC0011,Aran Eastgate,Individual,IN,2029-01-30,2026-08-06,N/A,Provided,No
+KYC0012,Farid Gladstone Enterprises Ltd,Corporate,IN,2029-08-13,2026-09-21,No,Provided,No
+KYC0013,Belmor Dunleavy,Individual,XA,2029-01-03,2026-07-23,N/A,Provided,No
+KYC0014,Maren Hartley Trading Ltd,Corporate,IE,2028-09-25,2026-09-22,No,Provided,No
+KYC0015,Dorian Fenwick,Individual,XB,2030-07-02,2026-08-11,N/A,Provided,No
+KYC0016,Elka Lockwood Enterprises Ltd,Corporate,GB,2026-09-12,2026-08-17,Yes,Provided,No
+KYC0017,Kestrel Carrow,Individual,NL,2026-03-25,2026-09-06,N/A,Provided,No
+KYC0018,Jorvik Ingram,Individual,SG,2027-04-04,2026-08-27,N/A,Provided,No
+KYC0019,Nolan Eastgate Holdings Ltd,Corporate,SG,2027-11-23,2026-09-19,No,Provided,Yes
+KYC0020,Maren Hartley,Individual,IE,2028-03-28,2026-09-10,N/A,Provided,Yes
+KYC0021,Zorvan Rasmussen-Ley,Individual,GB,2028-01-09,2026-08-02,N/A,Provided,No
+KYC0022,Nolan Gladstone,Individual,NL,2027-11-14,2026-07-30,N/A,,No
+KYC0023,Ilan Hartley,Individual,XA,2028-11-09,2026-07-27,N/A,Provided,No
+KYC0024,Galen Carrow Trading Ltd,Corporate,SG,2026-03-17,2026-09-04,Yes,Provided,No
+KYC0025,Nolan Fenwick Logistics Ltd,Corporate,GB,2029-11-01,2026-08-23,No,Provided,No
+KYC0026,Belmor Fenwick Industries Ltd,Corporate,IN,2028-10-16,2026-08-11,Yes,Provided,No
+KYC0027,Nolan Hartley Capital Ltd,Corporate,NL,2028-12-25,2026-09-04,Yes,Provided,No
+KYC0028,"Halvorsen, Vexleye",Individual,NL,2028-11-26,2026-08-22,N/A,Provided,No
+KYC0029,Farid Eastgate Industries Ltd,Corporate,IE,2029-05-14,2026-08-13,Yes,Provided,No
+KYC0030,Yarrow Valdermar,Individual,XA,2029-02-13,2026-08-15,N/A,Provided,No
+KYC0031,Dorian Fenwick,Individual,XA,2028-08-30,2026-09-16,N/A,Provided,No
+KYC0032,Cavil Jessop Enterprises Ltd,Corporate,XB,2030-10-23,2026-08-04,Yes,,No
+KYC0033,Lunara Ashdown Logistics Ltd,Corporate,DE,2030-05-14,2026-08-01,Yes,Provided,No
+KYC0034,Dorian Kingsley,Individual,DE,2030-08-13,2026-09-21,N/A,Provided,Yes
+KYC0035,Cavil Ashdown,Individual,DE,2027-09-12,2026-08-17,N/A,Provided,Yes
+KYC0036,Dorian Ingram Trading Ltd,Corporate,SG,2029-09-07,2026-04-05,Yes,Provided,No
+KYC0037,Jorvik Dunleavy,Individual,FR,2029-03-04,2026-02-05,N/A,Provided,No
+KYC0038,Nolan Gladstone Trading Ltd,Corporate,XB,2029-03-04,2026-09-22,Yes,Provided,No
+KYC0039,Belmor Eastgate Enterprises Ltd,Corporate,XB,2028-12-24,2026-07-14,Yes,,No
+KYC0040,Nolan Carrow Holdings Ltd,Corporate,SG,2030-03-28,2026-07-20,Yes,Provided,No
+KYC0041,Cavil Jessop,Individual,SG,2030-03-28,2026-07-27,N/A,Provided,Yes
+KYC0042,Wrenfield Valdermar,Individual,IE,2030-10-15,2026-09-26,N/A,Provided,No
+KYC0043,Jorvik Jessop Enterprises Ltd,Corporate,DE,2028-11-25,2026-02-11,Yes,Provided,No
+KYC0044,Dorian Hartley Capital Ltd,Corporate,XA,2029-03-16,2026-08-08,Yes,Provided,Yes
+KYC0045,Jorvik Jessop,Individual,NL,2028-10-06,2026-07-25,N/A,Provided,No
+KYC0046,Wrenfield Drummond,Individual,XA,2028-09-06,2026-09-08,N/A,Provided,No
+KYC0047,Kestrel Jessop,Individual,XA,2028-06-14,2026-08-20,N/A,Provided,No
+KYC0048,Nolan Gladstone,Individual,IN,2029-10-08,2026-07-20,N/A,Provided,No
+KYC0049,Orsin Hartley,Individual,IN,2026-06-03,2026-07-26,N/A,Provided,No
+KYC0050,Lunara Eastgate,Individual,NL,2029-11-02,2026-07-28,N/A,Provided,No
+KYC0051,Aran Carrow,Individual,NL,2028-08-29,2026-07-20,N/A,Provided,No
+KYC0052,Lunara Ingram Trading Ltd,Corporate,XA,2029-01-14,2026-08-11,Yes,Provided,No
+KYC0053,Aran Ashdown,Individual,NL,2030-03-07,2026-07-30,N/A,Provided,No
+KYC0054,Orsin Kingsley,Individual,XB,2028-02-24,2026-09-25,N/A,,No
+KYC0055,Jorvik Jessop Industries Ltd,Corporate,XA,2029-03-28,2026-07-28,Yes,Provided,No
+KYC0056,Orsin Eastgate,Individual,XA,2027-06-13,2026-08-19,N/A,Provided,No
+KYC0057,Jorvik Eastgate Industries Ltd,Corporate,XA,2028-10-26,2026-09-08,Yes,Provided,No
+KYC0058,Farid Ingram Logistics Ltd,Corporate,SG,2030-05-12,2026-07-19,Yes,Provided,No
+KYC0059,Lunara Dunleavy,Individual,NL,2027-07-22,2026-09-18,N/A,Provided,No
+KYC0060,Farid Lockwood,Individual,SG,2027-06-18,2026-08-06,N/A,Provided,No
+KYC0061,Belmor Brightwell,Individual,FR,2030-07-10,2026-09-12,N/A,Provided,No
+KYC0062,Elka Lockwood,Individual,XA,2027-12-01,2026-09-03,N/A,Provided,No
+KYC0063,Maren Carrow Trading Ltd,Corporate,FR,2026-04-25,2026-07-17,Yes,Provided,No
+KYC0064,Lunara Brightwell Capital Ltd,Corporate,IN,2030-04-12,2026-07-15,Yes,Provided,No
+KYC0065,Orsin Jessop Logistics Ltd,Corporate,IN,2029-07-01,2026-09-15,Yes,Provided,No
+KYC0066,Hestia Fenwick Industries Ltd,Corporate,IE,2027-05-23,2026-03-11,Yes,Provided,No
+KYC0067,Jorvik Kingsley,Individual,XB,2028-09-14,2026-07-17,N/A,Provided,No
+KYC0068,Elka Brightwell,Individual,XB,2028-05-25,2026-08-25,N/A,Provided,No
+KYC0069,Ilan Carrow Logistics Ltd,Corporate,IE,2029-08-14,2026-08-08,Yes,Provided,No
+KYC0070,Quillon Okonkwo-Reyes,Individual,GB,2030-04-16,2026-09-22,N/A,Provided,No
+KYC0071,Ilan Jessop,Individual,XA,2028-05-31,2026-08-08,N/A,Provided,No
+KYC0072,Farid Brightwell Enterprises Ltd,Corporate,IN,2030-02-12,2026-08-08,Yes,Provided,No
+KYC0073,Galen Kingsley,Individual,FR,2027-09-23,2026-09-16,N/A,Provided,Yes
+KYC0074,Nolan Dunleavy Logistics Ltd,Corporate,SG,2029-01-23,2026-08-27,Yes,Provided,No
+KYC0075,Maren Gladstone Holdings Ltd,Corporate,DE,2029-01-31,2026-08-20,Yes,Provided,No
+KYC0076,Nolan Fenwick Enterprises Ltd,Corporate,IN,2030-05-26,2026-07-15,Yes,Provided,No
+KYC0077,Galen Brightwell,Individual,GB,2027-04-14,2026-09-22,N/A,Provided,No
+KYC0078,Aran Hartley,Individual,XA,2030-10-14,2026-08-13,N/A,Provided,No
+KYC0079,Elka Jessop Holdings Ltd,Corporate,IE,2029-09-08,2026-07-29,Yes,Provided,No
+KYC0080,Kestrel Carrow,Individual,GB,2029-03-06,2026-08-08,N/A,Provided,No
+KYC0081,Cavil Ingram Capital Ltd,Corporate,GB,2028-08-19,2026-05-16,Yes,Provided,No
+KYC0082,Aran Hartley,Individual,IN,2029-01-03,2026-08-10,N/A,Provided,No
+KYC0083,Lunara Ashdown,Individual,XA,2026-05-27,2026-09-07,N/A,Provided,No
+KYC0084,Elka Hartley Industries Ltd,Corporate,FR,2027-12-29,2026-09-22,Yes,Provided,No
+KYC0085,Jorvik Dunleavy,Individual,GB,2026-07-21,2026-08-06,N/A,Provided,No
+KYC0086,Kestrel Eastgate Logistics Ltd,Corporate,XA,2029-02-07,2026-08-21,Yes,Provided,No
+KYC0087,Cavil Dunleavy Logistics Ltd,Corporate,FR,2027-04-28,2026-08-02,Yes,Provided,No
+KYC0088,Aran Hartley Trading Ltd,Corporate,XA,2029-05-18,2026-09-05,Yes,Provided,No
+KYC0089,Belmor Lockwood Trading Ltd,Corporate,FR,2029-10-30,2026-09-15,Yes,Provided,No
+KYC0090,Kestrel Dunleavy,Individual,IN,2029-11-12,2026-06-24,N/A,Provided,No
+KYC0091,Elka Gladstone,Individual,XA,2028-10-16,2026-09-20,N/A,Provided,No
+KYC0092,Cavil Lockwood,Individual,XB,2030-09-01,2026-03-15,N/A,Provided,No
+KYC0093,Belmor Fenwick,Individual,GB,2027-07-25,2026-01-24,N/A,Provided,Yes
+KYC0094,Jorvik Brightwell,Individual,FR,2030-07-31,2026-09-24,N/A,Provided,No
+KYC0095,Hestia Gladstone Enterprises Ltd,Corporate,SG,2030-01-02,2026-09-10,Yes,Provided,No
+KYC0096,Lunara Hartley Logistics Ltd,Corporate,XB,2027-09-22,2026-09-09,Yes,Provided,No
+KYC0097,Maren Eastgate,Individual,SG,2028-10-30,2026-09-10,N/A,Provided,No
+KYC0098,Hestia Dunleavy,Individual,GB,2029-06-24,2026-07-15,N/A,Provided,No
+KYC0099,Aran Hartley Industries Ltd,Corporate,FR,2027-05-07,2026-09-01,Yes,Provided,No
+KYC0100,Orsin Brightwell Trading Ltd,Corporate,SG,2028-11-01,2026-08-09,Yes,Provided,No
+KYC0101,Orsin Eastgate,Individual,DE,2030-04-20,2026-09-23,N/A,Provided,No
+KYC0102,Lunara Ashdown,Individual,SG,2028-07-30,2026-09-13,N/A,Provided,No
+KYC0103,Ilan Carrow Capital Ltd,Corporate,GB,2028-10-17,2026-09-05,Yes,Provided,No
+KYC0104,Kestrel Fenwick Capital Ltd,Corporate,IN,2027-06-08,2026-07-19,Yes,Provided,No
+KYC0105,Aran Brightwell,Individual,IN,2027-10-22,2026-08-12,N/A,Provided,No
+KYC0106,Jorvik Ashdown Logistics Ltd,Corporate,XB,2029-06-25,2026-09-10,Yes,Provided,No
+KYC0107,Farid Ashdown Logistics Ltd,Corporate,DE,2027-08-12,2026-08-23,Yes,Provided,No
+KYC0108,Kestrel Lockwood,Individual,DE,2029-07-30,2026-08-02,N/A,Provided,No
+KYC0109,Farid Fenwick,Individual,XA,2028-05-10,2026-07-29,N/A,Provided,No
+KYC0110,Hestia Ashdown,Individual,DE,2030-01-23,2026-03-08,N/A,Provided,Yes
+KYC0111,"Halvorsen, Wrenfield",Individual,SG,2027-05-16,2026-08-31,N/A,Provided,Yes
+KYC0112,Orsin Jessop,Individual,FR,2029-10-12,2026-08-12,N/A,Provided,No
+KYC0113,Dorian Eastgate,Individual,FR,2028-10-11,2026-07-17,N/A,Provided,No
+KYC0114,Farid Fenwick,Individual,FR,2030-10-18,2026-09-19,N/A,Provided,No
+KYC0115,Farid Carrow Logistics Ltd,Corporate,FR,2029-10-28,2026-08-09,Yes,Provided,No
+KYC0116,Galen Brightwell,Individual,NL,2028-03-12,2026-08-16,N/A,Provided,No
+KYC0117,Nolan Ingram Enterprises Ltd,Corporate,GB,2028-03-11,2026-08-09,Yes,Provided,No
+KYC0118,Ilan Jessop,Individual,DE,2029-04-04,2026-09-24,N/A,Provided,No
+KYC0119,Jorvik Eastgate,Individual,XB,2029-03-23,2026-07-24,N/A,Provided,No
+KYC0120,Hestia Jessop Industries Ltd,Corporate,XB,2030-11-01,2026-09-19,Yes,Provided,No
+KYC0121,Zorvan Valdermar,Individual,XB,2028-03-27,2026-08-21,N/A,Provided,No
+KYC0122,Belmor Fenwick,Individual,SG,2028-10-18,2026-09-25,N/A,Provided,No
+KYC0123,Belmor Ashdown,Individual,GB,2030-11-01,2026-08-19,N/A,Provided,No
+KYC0124,Hestia Ingram,Individual,GB,2027-10-03,2026-08-27,N/A,Provided,No
+KYC0125,Galen Ashdown Industries Ltd,Corporate,SG,2029-03-13,2026-09-04,Yes,Provided,No
+KYC0126,Orsin Kingsley,Individual,IE,2029-03-30,2026-08-16,N/A,Provided,No
+KYC0127,Dorian Brightwell Logistics Ltd,Corporate,NL,2028-10-15,2026-08-23,Yes,Provided,No
+KYC0128,Orsin Carrow,Individual,GB,2030-08-16,2026-08-05,N/A,Provided,No
+KYC0129,Kestrel Brightwell,Individual,XB,2029-05-11,2026-08-04,N/A,Provided,No
+KYC0130,Ilan Jessop Logistics Ltd,Corporate,NL,2029-06-03,2026-08-22,Yes,Provided,No
+KYC0131,Zorvane Valdermar,Individual,DE,2027-09-22,2026-08-20,N/A,Provided,No
+KYC0132,Galen Dunleavy,Individual,IE,2030-05-30,2026-09-13,N/A,Provided,No
+KYC0133,Lunara Brightwell Trading Ltd,Corporate,XA,2027-11-07,2026-07-22,Yes,,Yes
+KYC0134,Dorian Hartley Industries Ltd,Corporate,SG,2028-05-12,2026-07-27,Yes,Provided,No
+KYC0135,Dorian Kingsley,Individual,DE,2027-09-14,2026-09-15,N/A,Provided,No
+KYC0136,Jorvik Brightwell Enterprises Ltd,Corporate,XA,2028-11-20,2026-09-03,Yes,Provided,No
+KYC0137,Quillon Rasmussen-Ley,Individual,GB,2028-03-04,2026-08-31,N/A,Provided,No
+KYC0138,Hestia Kingsley,Individual,GB,2028-06-15,2026-08-06,N/A,Provided,No
+KYC0139,Galen Ashdown Trading Ltd,Corporate,IE,2027-10-27,2026-09-26,Yes,Provided,No
+KYC0140,Lunara Brightwell Holdings Ltd,Corporate,NL,2027-03-02,2026-09-12,Yes,Provided,No
+KYC0141,Maren Lockwood Logistics Ltd,Corporate,IE,2029-03-21,2026-09-08,Yes,Provided,No
+KYC0142,Kestrel Lockwood Trading Ltd,Corporate,GB,2028-09-26,2026-08-05,Yes,Provided,No
+KYC0143,Ilan Gladstone,Individual,IN,2028-04-24,2026-08-04,N/A,Provided,Yes
+KYC0144,Kestrel Lockwood Trading Ltd,Corporate,DE,2028-08-06,2026-09-14,Yes,Provided,No
+KYC0145,Quillon Rasmussen-Ley,Individual,FR,2027-08-05,2026-07-31,N/A,Provided,No
+KYC0146,Aran Carrow,Individual,IE,2026-05-03,2026-09-24,N/A,Provided,No
+KYC0147,Galen Ingram Trading Ltd,Corporate,IN,2028-04-20,2026-09-02,Yes,Provided,Yes
+KYC0148,Aran Hartley Enterprises Ltd,Corporate,GB,2028-08-22,2026-07-28,Yes,Provided,No
+KYC0149,Cavil Gladstone,Individual,XB,2029-07-07,2026-07-13,N/A,Provided,No
+KYC0150,Dorian Ashdown,Individual,SG,2029-05-24,2026-08-02,N/A,Provided,No
+KYC0151,Aran Carrow Capital Ltd,Corporate,DE,2028-10-10,2026-09-02,Yes,Provided,No
+KYC0152,Farid Dunleavy,Individual,SG,2029-06-10,2026-09-02,N/A,Provided,No
+KYC0153,Farid Eastgate Trading Ltd,Corporate,GB,2028-01-10,2026-07-30,Yes,Provided,No
+KYC0154,Aran Gladstone Logistics Ltd,Corporate,FR,2030-09-17,2026-03-20,Yes,Provided,No
+KYC0155,Farid Jessop Holdings Ltd,Corporate,DE,2029-09-13,2026-08-27,Yes,Provided,No
+KYC0156,Jorvik Ashdown Trading Ltd,Corporate,DE,2029-06-25,2026-09-16,Yes,Provided,No
+KYC0157,Farid Dunleavy Logistics Ltd,Corporate,NL,2029-12-25,2026-07-17,Yes,Provided,No
+KYC0158,Belmor Kingsley,Individual,SG,2029-03-06,2026-08-19,N/A,Provided,No
+KYC0159,Vexley Petrakis,Individual,FR,2030-04-07,2026-09-09,N/A,Provided,No
+KYC0160,Lunara Gladstone,Individual,DE,2028-05-29,2026-07-27,N/A,Provided,No
+KYC0161,Aran Ashdown,Individual,FR,2029-06-04,2026-08-28,N/A,Provided,No
+KYC0162,Maren Eastgate,Individual,IN,2029-11-19,2026-08-27,N/A,Provided,No
+KYC0163,Orsin Fenwick Trading Ltd,Corporate,XB,2028-09-29,2026-08-01,Yes,Provided,No
+KYC0164,Orsin Fenwick,Individual,XB,2028-08-15,2026-07-14,N/A,Provided,No
+KYC0165,Galen Eastgate Logistics Ltd,Corporate,GB,2030-09-10,2026-07-31,Yes,Provided,No
+KYC0166,Ilan Jessop,Individual,SG,2027-08-18,2026-07-23,N/A,,No
+KYC0167,Nolan Gladstone Logistics Ltd,Corporate,XA,2029-01-16,2026-09-18,Yes,Provided,No
+KYC0168,Jorvik Hartley,Individual,IN,2027-05-31,2026-09-15,N/A,Provided,No
+KYC0169,Farid Fenwick,Individual,NL,2028-08-15,2026-07-27,N/A,Provided,No
+KYC0170,Elka Eastgate,Individual,IN,2030-08-02,2026-08-25,N/A,Provided,No
+KYC0171,Lunara Eastgate,Individual,XA,2028-01-26,2026-09-09,N/A,Provided,No
+KYC0172,Ilan Brightwell Trading Ltd,Corporate,XA,2027-04-27,2026-07-25,Yes,Provided,No
+KYC0173,Aran Jessop,Individual,SG,2027-09-26,2026-08-05,N/A,Provided,No
+KYC0174,Jorvik Jessop Logistics Ltd,Corporate,XB,2027-09-13,2026-09-18,Yes,Provided,No
+KYC0175,Aran Brightwell,Individual,XA,2028-10-12,2026-07-21,N/A,Provided,No
+KYC0176,Kestrel Kingsley,Individual,NL,2027-10-02,2026-08-06,N/A,Provided,No
+KYC0177,Hestia Eastgate Capital Ltd,Corporate,IN,2028-11-20,2026-07-22,Yes,Provided,No
+KYC0178,Hestia Gladstone Logistics Ltd,Corporate,FR,2028-07-21,2026-08-17,Yes,Provided,No
+KYC0179,Hestia Brightwell,Individual,DE,2026-06-24,2026-09-16,N/A,Provided,No
+KYC0180,Jorvik Ingram Industries Ltd,Corporate,SG,2028-01-22,2026-09-01,Yes,Provided,No
+KYC0181,Cavil Kingsley Enterprises Ltd,Corporate,XA,2030-04-17,2026-08-13,Yes,Provided,No
+KYC0182,Quillon Halvorsen,Individual,XA,2029-11-23,2026-07-20,N/A,Provided,Yes
+KYC0183,Ilan Dunleavy,Individual,DE,2029-06-06,2026-07-18,N/A,Provided,No
+KYC0184,Elka Jessop Trading Ltd,Corporate,FR,2028-07-12,2026-08-03,Yes,Provided,No
+KYC0185,Hestia Kingsley Industries Ltd,Corporate,GB,2026-09-25,2026-09-12,Yes,Provided,No
+KYC0186,Nolan Kingsley,Individual,NL,2030-05-05,2026-09-04,N/A,Provided,No
+KYC0187,"Valdermar, Yarrow",Individual,NL,2027-08-21,2026-08-05,N/A,Provided,No
+KYC0188,Elka Brightwell,Individual,NL,2028-12-19,2026-08-05,N/A,Provided,Yes
+KYC0189,Belmor Brightwell Capital Ltd,Corporate,GB,2028-02-01,2026-09-21,Yes,Provided,No
+KYC0190,Belmor Hartley Holdings Ltd,Corporate,GB,2028-05-06,2026-08-04,Yes,Provided,No
+KYC0191,Kestrel Brightwell Industries Ltd,Corporate,XB,2028-11-21,2026-08-11,Yes,Provided,No
+KYC0192,Galen Brightwell Logistics Ltd,Corporate,FR,2027-09-21,2026-07-20,Yes,Provided,No
+KYC0193,Galen Brightwell Capital Ltd,Corporate,NL,2030-03-02,2026-07-30,Yes,,Yes
+KYC0194,Aran Dunleavy Enterprises Ltd,Corporate,DE,2029-03-20,2026-09-03,Yes,Provided,No
+KYC0195,Orsin Lockwood Enterprises Ltd,Corporate,GB,2027-11-10,2026-08-18,Yes,Provided,No
+KYC0196,Elka Hartley Enterprises Ltd,Corporate,XB,2028-07-05,2026-08-21,Yes,Provided,No
+KYC0197,Hestia Hartley Holdings Ltd,Corporate,GB,2027-10-30,2026-09-01,Yes,Provided,No
+KYC0198,Vexley Rasmussen-Ley,Individual,DE,2028-06-23,2026-09-05,N/A,Provided,No
+KYC0199,Elka Jessop Holdings Ltd,Corporate,DE,2029-10-11,2026-09-13,Yes,,No
+KYC0200,Kestrel Fenwick Industries Ltd,Corporate,IN,2030-02-13,2026-07-17,Yes,Provided,No
